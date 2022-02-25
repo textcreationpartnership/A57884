@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules, orders, and directions by the lord lieutenant and council</title>
+            <author>Ireland. Lord Lieutenant (1672-1677 : Essex)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57884</idno>
+            <idno type="STC">Wing R2265_VARIANT-B</idno>
+            <idno type="STC">ESTC R39474</idno>
+            <idno type="EEBO-CITATION">18420983</idno>
+            <idno type="OCLC">ocm 18420983</idno>
+            <idno type="VID">107551</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107551)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1643:5 or 1869:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules, orders, and directions by the lord lieutenant and council</title>
+                  <author>Ireland. Lord Lieutenant (1672-1677 : Essex)</author>
+                  <author>Essex, Arthur Capel, Earl of, 1631-1683.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Tooke ... and are to be sold by Joseph Wilde ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"... for the better regulating the corporation of the town of Gallway ..."-- P. 3.</note>
+                  <note>"Given at the Council-chamber in Dublin, the three and twentieth day of September, 1672."-- P. 12.</note>
+                  <note>Errors in paging: p. 8 misnumbered 14, p. 10-11 misnumbered 13-14.</note>
+                  <note>Item at reel 1643:5 identified as Wing R2265 Variant b (number cancelled).</note>
+                  <note>Reproductions of originals in the Harvard University Library and Marsh's Library, St. Patrick's, Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Town laws --  Ireland.</term>
+               <term>Ireland --  History --  1660-1688.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107551:1"/>
+            <pb facs="tcp:107551:1"/>
+            <p>Rules, Orders, AND DIRECTIONS BY THE Lord Lieutenant AND COUNCIL</p>
+            <figure>
+               <head>C R</head>
+               <q>DIEV ET MON DROIT</q>
+               <q>
+                  <unclear>HONI SOIT QVI MAL Y PENSE</unclear>
+               </q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>Dublin Printed by <hi>Benjamin Tooke,</hi> Printer to the Kings Moſt Excellent Majeſty; And are to be ſold by <hi>Joſeph Wilde,</hi> Book<g ref="char:EOLhyphen"/>ſeller in <hi>Caſtle-ſtreet,</hi> 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:107551:2"/>
+            <pb facs="tcp:107551:2"/>
+            <head>
+               <figure>
+                  <figDesc>decorative floral border containing a crown, the Scottish thistle and Tudor rose</figDesc>
+               </figure>
+            </head>
+            <head>BY THE Lord Lieutenant AND COUNCIL RULES, ORDERS and Directions made and Eſtabliſhed by Us the Lord Lieutenant and Councel, for the better Re<g ref="char:EOLhyphen"/>gulating of the Corporation of the Town of <hi>Gallway,</hi> and the Electing of Magiſtrates and Officers there.</head>
+            <opener>
+               <signed>ESSEX.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS in and by one Act of Parliament, lately made in this Kingdom; Entituled, <hi>An Act for the Explaining of ſome doubts ariſing upon An Act;</hi> Entituled,<hi>An Act, for the better Execution of His Ma<g ref="char:EOLhyphen"/>jeſties Gracious Declaration for the Settlement of His Kingdom of <hi>Ireland,</hi> and Satisfaction of the ſe<g ref="char:EOLhyphen"/>veral
+<pb n="4" facs="tcp:107551:3"/>intereſts of Adventurers, Souldiers, and other His Subjects there; And for making ſome alterations of, and additions unto the ſaid Act, for the more ſpee<g ref="char:EOLhyphen"/>dy and effectual Settlement of the ſaid Kingdom.</hi>
+            </p>
+            <p>
+               <hi>IT is amongſt other things therein contain<g ref="char:EOLhyphen"/>ed, Enacted,</hi> That it ſhall, and may be lawful to, and for the Lord Lieutenant, or other Chief Go<g ref="char:EOLhyphen"/>vernor, or Governors, and Council of <hi>Ireland</hi> for the time being, from time to time, and at all times to come, during the ſpace of Seven years, to be ac<g ref="char:EOLhyphen"/>compted from the Nine and twentieth day of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> One thouſand ſix hundred ſixty five, to make and eſtabliſh ſuch Rules, Orders, and Directions, for the better regulating of all Cities, Walled Towns, and Corporations, both New and Old, and ſuch as ſhall be created within this Kingdom, and the Ele<g ref="char:EOLhyphen"/>cting of Magiſtrates and Officers there, and to inflict ſuch penalties for the breach thereof, as they in their wiſedomes ſhall think fit, ſo as the penalties for breach of the Rules, Orders, and Directions to be made, touching ſuch Corporations, do not extend farther than to the Removal and Disfranchiſment of ſuch Perſons, as ſhall be found guilty of the breach thereof; and ſuch Rules, Orders, and Directions, ſo to be made as aforeſaid, ſhall be as good and effectual in Law, to all intents and purpoſes, as if the ſame had been ſpecially and particularly Eſtabliſhed by Au<g ref="char:EOLhyphen"/>thority of this preſent Parliament, and ſhall remain, continue, and abide in force, for ſuch and ſo long time, as in the ſaid Rules, Orders, and Directions ſhall be li<g ref="char:EOLhyphen"/>mited and appointed, any thing in the ſaid Act, or otherwiſe to the contrary thereof in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <pb facs="tcp:107551:3"/>
+            <p>
+               <pb facs="tcp:107551:4"/>
+               <pb n="5" facs="tcp:107551:4"/>
+VVE the Lord Lieutenant and coun<g ref="char:EOLhyphen"/>cil, in purſuance of the ſaid Act, and the Authority thereby given un<g ref="char:EOLhyphen"/>to Vs, Have thought fit to make and Eſta<g ref="char:EOLhyphen"/>bliſh; And We do hereby Make and Eſtabliſh the Rules, Orders, and Directions hereafter mentioned, for the better Regulating of the corporation of the ſaid Town of <hi>Gallway,</hi> and the Electing of Magiſtrates and Officers there.</p>
+            <p>
+               <hi>Firſt,</hi> That upon all Elections to be hereaf<g ref="char:EOLhyphen"/>ter made, after the Second day of <hi>October</hi> next, of any perſon or perſons to ſerve in any of the Offices of Mayor, Sheriffs, Recor<g ref="char:EOLhyphen"/>der, or Town-clerk of the ſaid corporation, the names of the perſons ſo Elected to ſerve in the ſaid ſeveral Offices, ſhall be by the ſaid corporation, forthwith preſented to the Lord Lieutenant, or other chief Governour or Governours, and the Privy councel of this Kingdom to be approved of by them, and the ſaid perſons ſo Elected for any the ſaid Offices, ſhall be for ever hereafter incapa<g ref="char:EOLhyphen"/>ble of ſerving in the ſaid ſeveral Offices, or any of them, untill they ſhall be reſpectively ap<g ref="char:EOLhyphen"/>proved of by the Lord Lieutenant, or other chief Governour or Governours, and the Pri<g ref="char:EOLhyphen"/>vy council of this Kingdom, by Order un<g ref="char:EOLhyphen"/>der their Hands; And in caſe the perſons, or any of them, whoſe names ſhall be ſo pre<g ref="char:EOLhyphen"/>ſented to the Lord Lieutenant, or other chief Governour or Governours and council of this Kingdom, ſhall not be ſo approved of within Ten dayes after their names ſhall be
+<pb n="6" facs="tcp:107551:5"/>ſo preſented, then and in ſuch caſe the ſaid Corporation ſhall from time to time proceed to a new Election of fit perſons for the ſaid re<g ref="char:EOLhyphen"/>ſpective Offices, for which the perſons ſo pre<g ref="char:EOLhyphen"/>ſented, ſhall not be ſo approved of, and ſhall in like manner preſent their names to the ſaid Lord Lieutenant, or other chief Governour or Governours, and Privy council of this Kingdom, untill they ſhall have choſen ſuch perſons for the ſaid reſpective Offices, as ſhall be ſo approved of as aforeſaid.</p>
+            <p>Provided always that this Rule ſhall not extend to the Election of any perſons, that ſhall be Elected in the place of any of the ſaid Officers annually choſen, who ſhall dye within the year of their Execution of the ſaid reſpective Offices, or within one Moneth before they are to enter upon the Execution thereof.</p>
+            <p>
+               <hi>Secondly,</hi> That no perſon ſhall be hereafter choſen Warden of the ſaid Town of <hi>Gallway,</hi> but ſuch perſon as ſhall be nominated to the ſaid Office by the Lord Lieutenant, or other chief Governour or Governours of this Kingdom for the time being.</p>
+            <p>
+               <hi>Thirdly,</hi> That no perſon or perſons, that ſhall hereafter be Elected, either Mayor, Recorder, Sheriffs, Treaſurer, Alderman, Town-clerk, or one of the Common-coun<g ref="char:EOLhyphen"/>cel within the ſaid Town, or Corporation, or Maſter, or Wardens of any Corporation, Guild or Fraternity within the ſaid Town or corporation, ſhall be capable of holding, enjoy<g ref="char:EOLhyphen"/>ing or executing any the ſaid Offices, places or
+<pb n="7" facs="tcp:107551:5"/>imployments, until he or they ſhall have taken the oath of Supremacy, Eſtabliſhed by Act of Parliament <hi>2<hi rend="sup">do</hi> Elizabethae</hi> in this Kingdom, &amp; the Oath of Allegiance, beſides the Oaths uſually taken upon the admiſsion of any per<g ref="char:EOLhyphen"/>ſons into the ſaid Reſpective Offices, pla<g ref="char:EOLhyphen"/>ces, or Employments. And alſo this enſu<g ref="char:EOLhyphen"/>ing Oath, <hi>viz. I <hi>A. B.</hi> do Declare and Believe, That it is not lawful, upon any pretence what<g ref="char:EOLhyphen"/>ſoever, to take Arms againſt the KING; And that I do abhor that Trayterous Poſition of taking Arms by His Authority againſt His Perſon, or a<g ref="char:EOLhyphen"/>gainſt thoſe that are Commiſſioned by him. So help me GOD.</hi> The ſaid Oaths to be taken, before ſuch perſon or perſons as ſhall admit them to the ſaid ſeveral Offices, places, and employments (who are hereby impowred au<g ref="char:EOLhyphen"/>thorized and required to adminiſter to them the ſaid Oaths) and upon any ſuch perſon or perſons refuſal to take the ſaid Oaths, The Election of ſuch perſon or perſons in<g ref="char:EOLhyphen"/>to any of the ſaid Offices, places, and employ<g ref="char:EOLhyphen"/>ments, is hereby declared to be abſolutely null and void (ſuch perſons onely excepted, with whoſe taking the ſaid Oath of Supre<g ref="char:EOLhyphen"/>macy, the Lord Lieutenant, or other Chief Governour or Governours of this King<g ref="char:EOLhyphen"/>dom for the time being for ſome particular Rea<g ref="char:EOLhyphen"/>ſons ſhall think fit by writing under his or their hand by Name to diſpence.</p>
+            <p>
+               <hi>Fourthly,</hi> For the avoiding of ſuch Tumults and Diſorders wherewith Popular Elections of Magiſtrates and other Officers are often attended; We do hereby further Order and Direct, that for ever hereafter, the Mayor,
+<pb n="14" facs="tcp:107551:6"/>Sheriffs, Recorder, Town-clerk, and all o<g ref="char:EOLhyphen"/>ther Officers of the ſaid Town of <hi>Gallway,</hi> ſhall be Elected and choſen onely by the Mayor, Sheriffs and Common-councel of the ſaid Town, or the greater number of the Votes of ſuch of the common-councel of the ſaid Town, as ſhall be preſent on the dayes whereon ſuch Elections are or ought to be uſually made; And that no Freeman of the ſaid Town, or other perſon, who ſhall not be of the com<g ref="char:EOLhyphen"/>mon-councel of the ſaid Town, ſhall at any time hereafter have any Vote in the Election of any Mayor, Sheriffs, Recorder or Town-clerk, or other Officers in the ſaid Town of <hi>Gallway:</hi> And that no matter or thing in any wiſe relating to the affairs of the ſaid Town, ſhall be hereafter propounded or debated in the <hi>Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lſell,</hi> or General Aſſembly of the ſaid Town, untill the ſame ſhall have firſt paſt the common-councel of the ſaid Town, and that the perſons offending againſt this Rule, ſhall be Disfranchiſed by the Mayor, and common-councel of the ſaid Town, any Law, Vſage, or cuſtom of the ſaid Town, to the contrary in any wiſe notwithſtanding.</p>
+            <p>
+               <hi>Fifthly,</hi> That all Foreigners, Stran<g ref="char:EOLhyphen"/>gers, and Aliens, as well others as Pro<g ref="char:EOLhyphen"/>teſtants, who are or ſhall be Merchants, Traders, Artizans, Artificers, Seamen, or otherwiſe ſkilled and exerciſed in any Myſtery, Craft, or Trade; or in the work<g ref="char:EOLhyphen"/>ing or making any manufacture, or in the Art of Navigation, who are at preſent reſiding and inhabiting within the ſaid Town of
+<pb facs="tcp:107551:6"/>
+               <pb facs="tcp:107551:7"/>
+               <pb n="9" facs="tcp:107551:7"/>
+               <hi>Gallway,</hi> or who ſhall at any time hereafter come into the ſaid <hi>Town</hi> of <hi>Gallway,</hi> with in<g ref="char:EOLhyphen"/>tent and reſolution there to inhabit, reſide, and dwell, ſhall upon his or their reaſonable ſuit or requeſt made, and upon payment down, or tender of Twenty ſhillings by way of Fine, into the chief Magiſtrate or Magi<g ref="char:EOLhyphen"/>ſtrates and Common-councel; or other per<g ref="char:EOLhyphen"/>ſons authorized to admit, and make Freemen of the ſaid <hi>Town</hi> of <hi>Gallway,</hi> be admitted a Freeman of the ſaid <hi>Town</hi> of <hi>Gallway.</hi> And if he or they ſhall deſire it, of all or any Guild, Brother-hood, Society, or Fellowſhip of any Trade, Craft, or other myſtery within the ſame during his or their reſidence for the moſt part, and his and their Families con<g ref="char:EOLhyphen"/>ſtant inhabiting within the ſaid <hi>Town</hi> of <hi>Gall<g ref="char:EOLhyphen"/>way,</hi> and no longer; and ſhall have, exerciſe, and enjoy all priviledges and immunities of Trading, Working Buying, and Selling, in as large and ample manner as any Free<g ref="char:EOLhyphen"/>man of the ſaid Town of <hi>Gallway,</hi> might have, exerciſe or enj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y by vertue of his or their Free<g ref="char:EOLhyphen"/>dom: And t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at every ſuch perſon or perſons, who ſhall be admitted to be free as aforeſaid, ſhall from thenceforth be deemed, eſteemed, and taken and be Denizen and Denizens within this Kingdom, any Law Statute, Charter, <g ref="char:V">Ʋ</g>ſage, or Cuſtome of this King<g ref="char:EOLhyphen"/>dom, or of any City, Walled-town, or Corporation of the ſame, to the contrary in any wiſe notwithſtanding. Provided al<g ref="char:EOLhyphen"/>wayes, That all ſuch Strangers, Artifi<g ref="char:EOLhyphen"/>cers, and others, to be admitted Freemen
+<pb n="13" facs="tcp:107551:8"/>as aforeſaid, ſhall take the Oath of Allegi<g ref="char:EOLhyphen"/>ance to our Sovereign Lord the King, His Heirs and Succeſſors, and alſo ſuch other Oaths as are accuſtomably taken by all or any Freemen, or members of the ſaid Town of <hi>Gallway,</hi> or by all or any the members of any ſuch Guild, or Brotherhood; Society, or Fellowſhip of the Trade, Craft, or other myſtery, which he or they ſhall occupy, or exercize, in caſe he or they ſhall deſire to be incorporated into any ſuch Guild, Brother<g ref="char:EOLhyphen"/>hood, Society, or Fellowſhip aforeſaid, and ſhall pay all ſuch and like Charges, as all Freemen His Majeſties ſubjects, of the like Trade, Craft, or myſtery, ſhall or do uſe to pay, and no other or more; And that if the chief Magiſtrate or Magiſtrates or other perſons authorized as aforeſaid, of the ſaid Town of <hi>Gallway,</hi> or any Maſter, War<g ref="char:EOLhyphen"/>den, or other Governour of any Brotherhood, Society, or Fellowſhip; or any Trade, Craft, or myſtery within the ſaid Town of <hi>Gallway,</hi> ſhall refuſe to admit any ſuch Stranger, be<g ref="char:EOLhyphen"/>ing a Merchant, Trader, Artificer, Ar<g ref="char:EOLhyphen"/>tizan, Workman or Seaman, reſiding or coming into this Kingdom, with intent as aforeſaid, to be a Freeman of the ſaid Town of <hi>Gallway,</hi> or to be a Brother or member of any brotherhood, Society, or Fellowſhip within the ſame, every ſuch chief Magiſtrate or Ma<g ref="char:EOLhyphen"/>giſtrates, Maſter, Wardens, or other Gover<g ref="char:EOLhyphen"/>nours reſpectively ſhall (upon complaint and due proof made, of ſuch refuſal, before the Lord Lieutenant, or other chief Governour
+<pb n="14" facs="tcp:107551:8"/>or Governours, and Council of this King<g ref="char:EOLhyphen"/>dom, be by their Order Disfranchiſed, and from thenceforth incapable (without their Li<g ref="char:EOLhyphen"/>cence) of being a Freeman or member of the ſaid Town. And every ſuch Stranger be<g ref="char:EOLhyphen"/>ing a Merchant, Trader, Artificer, Artizan, Workman or Seaman, upon tender by him made of Twenty ſhillings, by way of Fine as aforeſaid, and taking the Oath of Allegiance before any Iuſtice of Peace, of the County of <hi>Gallway</hi> (who is hereby authorized and appointed to adminiſter the ſaid Oath) ſhall thereupon by vertue hereof, be deemed, re<g ref="char:EOLhyphen"/>puted, and taken to all intents and purpo<g ref="char:EOLhyphen"/>ſes to be a Freeman or member of the ſaid Town of <hi>Gallway,</hi> and of the Brotherhood, Society, or Fellowſhip of any Trade, Craft, or myſtery, where he or they ſhall be denyed admiſsion as aforeſaid; And from thenceforth have, exercize, and enjoy the liberty and pri<g ref="char:EOLhyphen"/>viledge of Trading, Working, Buying or Selling of any commodities whatſoever, in as large and ample manner, as if he had been admitted a Freeman of the ſaid Town of <hi>Gallway</hi> a Brother or member of ſuch Bro<g ref="char:EOLhyphen"/>therhood, Society, or Fellowſhip of any Trade, Craft, or myſtery within the ſame, taking the uſual Oaths of ſuch Freemen, Bro<g ref="char:EOLhyphen"/>thers or members, which Oaths any one Iuſtice of Peace of the ſaid county of <hi>Gallway,</hi> ſhall have power to adminiſter, and paying all ſuch charges as aforeſaid, any Law, Cu<g ref="char:EOLhyphen"/>ſtome, Charter or <g ref="char:V">Ʋ</g>ſage, to the contrary in any wiſe notwithſtanding: And in caſe any
+<pb n="12" facs="tcp:107551:9"/>perſon or perſons ſhall give any interruption or diſturbance to any ſuch Stranger, being a Merchant, Trader, Artificer, Artizan, Workman, or Seaman as aforeſaid, to the hindring him in his Trading, Working, Buy<g ref="char:EOLhyphen"/>ing or Selling as aforeſaid, contrary to the intent and meaning hereof, all and every ſuch perſon and perſons ſo offending, ſhall upon like complaint and proof made of his or their offence therein, before the Lord Lieu<g ref="char:EOLhyphen"/>tenant, or other chief Governour or Gover<g ref="char:EOLhyphen"/>nours and Council of this Kingdom for the time being, be by their Order Disfranchiſed, and from thenceforth incapable without their Licence of being made a Freeman or member of the ſaid Town of <hi>Gallway.</hi>
+            </p>
+            <p>And theſe Our Rules, Orders, and directi<g ref="char:EOLhyphen"/>ons, We do hereby Order and Eſtabliſh for ever hereafter, to continue in force within the ſaid Town of <hi>Gallway,</hi> and within the Corporations thereof.</p>
+            <p>And that the ſame be forthwith inrolled in the Rolls of His Majeſties High-court of <hi>Chancery</hi> in this Kingdom.</p>
+            <closer>
+               <dateline>Given at the Council-Chamber in <hi>Dublin,</hi>
+                  <date>the Three and Twentieth day of <hi>September,</hi> 1672.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Ja. Armachanus.</item>
+                     <item>Mich. Dublin <hi>Canc.</hi>
+                     </item>
+                     <item>Drogheda.</item>
+                     <item>Arran.</item>
+                     <item>Conway <hi>&amp;</hi> Kilulta.</item>
+                     <item>Maſſereene.</item>
+                     <item>Hen. Midenſis.</item>
+                     <item>Fran. Aungier.</item>
+                     <item>Art<g ref="char:punc">▪</g> Forbeſe.</item>
+                     <item>Jo. Byſſe.</item>
+                     <item>Rob. Byron.</item>
+                     <item>Will. Stewart.</item>
+                     <item>Hen. Ingoldesby.</item>
+                     <item>Theo. Jones.</item>
+                     <item>Char. Meredyth.</item>
+                  </list>
+               </signed>
+               <lb/>
+GOD ſave the King.</closer>
+            <pb facs="tcp:107551:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
